@@ -1,1 +1,1 @@
-# EE3020-SSSA-mini-project
+# EE3020-SSA-mini-project
